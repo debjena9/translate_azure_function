@@ -1,4 +1,4 @@
-Replace the <KEY> and <REGION> in index.js file.
+Replace the KEY and REGION in index.js file.
 
 From Developer -> Code + Test , upload the package.json
 
